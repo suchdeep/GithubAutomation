@@ -3,7 +3,7 @@
 This Repository has been created as part of the QA Task:
 
 **Challenge 1**: **Repository Creation**
-Automate the creation of a repository on Github Challenge 
+1. Automate the creation of a repository on Github Challenge 
 
 **Challenge 2**: **Issue Creation** 
     1. Create an issue on Github in the repository created in challenge 
